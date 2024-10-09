@@ -1,10 +1,10 @@
 {
-  "name": "Excel reports consolidation",
-  "projectId": "86e82328-fdbe-4bae-9fd8-227155002924",
+  "name": "Creating Variables_Windows",
+  "projectId": "7376324d-6ee8-4225-b03c-9c1334a0e73c",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.1]",
+    "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.3]",
     "UiPath.Testing.Activities": "[23.10.0]",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.2.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "bd4a4d75-b13e-430c-a280-94642193de93",
+      "uniqueId": "e24a1f25-df20-4909-ba5c-2cd482c8b114",
       "input": [],
       "output": []
     }
