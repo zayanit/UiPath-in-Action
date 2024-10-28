@@ -1,0 +1,1 @@
+﻿Separate error codes stored in an array of strings based on their type ("Ax", "Bx", or "Cx") and store them in three different arrays. The initial array contains the following values: "Ax001", "Ax002", "Ax003", "Ax004", "Ax005", "Bx001", "Bx002", "Bx003", "Cx001", "Cx002", "Cx003", "Cx004". Moreover, each array's elements should be displayed in the Output Panel.
